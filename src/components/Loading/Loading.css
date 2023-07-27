@@ -1,0 +1,15 @@
+.loading {
+    font-size: 35px;
+    margin: 200px auto 0;
+    animation: spim 1s linear infinite;
+    width: 100%;
+}
+
+@keyframes spim {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
