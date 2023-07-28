@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## https://carrinho-compras-react-one.vercel.app/
+
 # Funcionalidades
 Listagem de produtos: exibe uma lista de produtos obtidos da API do Mercado Livre.
 Busca de produtos: permite pesquisar produtos com base em palavras-chave, consumindo a API do Mercado Livre para obter os resultados.
