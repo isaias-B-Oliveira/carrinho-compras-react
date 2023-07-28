@@ -1,5 +1,5 @@
 .cart__button {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -9,7 +9,7 @@
     cursor: pointer;
     position: relative;
     margin-left: 20px;
-    color: #333;
+    color: #f7eeee;
 }
 
 .cart-status {
