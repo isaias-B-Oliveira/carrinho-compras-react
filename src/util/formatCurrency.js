@@ -5,4 +5,5 @@ const formatCurrency = (value, currency) => {
     });
 };
 
+
 export default formatCurrency;
