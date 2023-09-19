@@ -1,16 +1,57 @@
-# Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# https://carrinho-compras-react-one.vercel.app/
 
-## https://carrinho-compras-react-one.vercel.app/
+# Carrinho de Compras da Loja Online
 
-# Funcionalidades
-Listagem de produtos: exibe uma lista de produtos obtidos da API do Mercado Livre.
-Busca de produtos: permite pesquisar produtos com base em palavras-chave, consumindo a API do Mercado Livre para obter os resultados.
-Adição de produtos ao carrinho: permite adicionar produtos ao carrinho de compras.
-Remoção de produtos do carrinho: possibilita remover produtos do carrinho de compras.
-# Tecnologias utilizadas
-React JS: biblioteca JavaScript para construção de interfaces de usuário.
-HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
-CSS3: linguagem de estilo para estilizar a interface do usuário.
-API do Mercado Livre: utilizada para obter dados de produtos.
+Este é um projeto de carrinho de compras de uma loja online construído em React, que utiliza a API do Mercado Livre para listar produtos e permitir que os usuários adicionem itens ao carrinho de compras.
+
+## Tecnologias Utilizadas
+
+- React: Uma biblioteca JavaScript para construção de interfaces de usuário.
+- API do Mercado Livre: Utilizada para obter informações sobre produtos.
+- HTML/CSS: Para estruturação e estilização da interface.
+- JavaScript: Para a lógica do carrinho de compras.
+
+## Funcionalidades Principais
+
+- Listagem de Produtos: Os usuários podem ver uma lista de produtos disponíveis na loja.
+- Detalhes do Produto: Ao clicar em um produto, os usuários podem ver detalhes adicionais.
+- Adicionar ao Carrinho: Os usuários podem adicionar produtos ao carrinho de compras.
+- Atualização do Carrinho: Os usuários podem atualizar a quantidade de produtos no carrinho.
+- Remover do Carrinho: Os usuários podem remover produtos do carrinho.
+- Total do Carrinho: O carrinho de compras exibe o total dos produtos selecionados.
+
+
+## Como Usar o Projeto
+
+1. Clone este repositório:
+  - git clone `https://github.com/seu-usuario/seu-projeto.git`
+
+ 
+2. Instale as dependências:
+
+  - cd seu-projeto
+  - npm install
+   
+4. Configure a API do Mercado Livre:
+   - Você precisará obter uma chave de API do Mercado Livre.
+   - Crie um arquivo `.env` na raiz do projeto e adicione sua chave de API da seguinte maneira:
+    -`REACT_APP_MERCADO_LIVRE_API_KEY=SuaChaveDeAPIAqui`
+
+
+5. Inicie o aplicativo:
+
+   - npm start
+
+6. Abra seu navegador e acesse `http://localhost:3000` para ver o projeto em execução.
+
+## Contribuições !
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar o projeto.
+
+
+----------
+
+
+ 
+
