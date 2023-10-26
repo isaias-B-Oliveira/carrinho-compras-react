@@ -1,18 +1,18 @@
 
-# https://carrinho-compras-react-one.vercel.app/
+# 🔗https://carrinho-compras-react-one.vercel.app/
 
-# Carrinho de Compras da Loja Online
+# 👨‍💻Carrinho de Compras da Loja Online
 
 Este é um projeto de carrinho de compras de uma loja online construído em React, que utiliza a API do Mercado Livre para listar produtos e permitir que os usuários adicionem itens ao carrinho de compras.
 
-## Tecnologias Utilizadas
+## 💻Tecnologias Utilizadas
 
 - React: Uma biblioteca JavaScript para construção de interfaces de usuário.
 - API do Mercado Livre: Utilizada para obter informações sobre produtos.
 - HTML/CSS: Para estruturação e estilização da interface.
 - JavaScript: Para a lógica do carrinho de compras.
 
-## Funcionalidades Principais
+## ⚙️Funcionalidades Principais
 
 - Listagem de Produtos: Os usuários podem ver uma lista de produtos disponíveis na loja.
 - Detalhes do Produto: Ao clicar em um produto, os usuários podem ver detalhes adicionais.
@@ -22,7 +22,7 @@ Este é um projeto de carrinho de compras de uma loja online construído em Reac
 - Total do Carrinho: O carrinho de compras exibe o total dos produtos selecionados.
 
 
-## Como Usar o Projeto
+## 💹Como Usar o Projeto
 
 1. Clone este repositório:
   - git clone `https://github.com/seu-usuario/seu-projeto.git`
