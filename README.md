@@ -6,7 +6,7 @@
 Este é um projeto de carrinho de compras de uma loja online construído em React, que utiliza a API do Mercado Livre para listar produtos e permitir que os usuários adicionem itens ao carrinho de compras.
 
 ## 💻Captura de tela:
-![Captura de tela 2023-10-27 160958](https://github.com/isaias-B-Oliveira/carrinho-compras-react/assets/126277721/0aec86c6-4ce9-4b71-a337-ea7c300035d1){width=300 height=200}
+<img width="600" height="300" src="https://github.com/isaias-B-Oliveira/carrinho-compras-react/assets/126277721/0aec86c6-4ce9-4b71-a337-ea7c300035d1" />
 
 
 ## 💻Tecnologias Utilizadas
@@ -50,7 +50,7 @@ Este é um projeto de carrinho de compras de uma loja online construído em Reac
 
 6. Abra seu navegador e acesse `http://localhost:3000` para ver o projeto em execução.
 
-## Contribuições !
+## 🚀🚀🚀Contribuições !
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar o projeto.
 
