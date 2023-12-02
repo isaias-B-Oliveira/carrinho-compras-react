@@ -45,7 +45,7 @@ Este é um projeto de carrinho de compras de uma loja online construído em Reac
 
 
 5. Inicie o aplicativo:
-
+   - no seu terminal acesse sua pasta com cd/pasta 
    - npm start
 
 6. Abra seu navegador e acesse `http://localhost:3000` para ver o projeto em execução.
